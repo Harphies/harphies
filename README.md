@@ -6,7 +6,7 @@
 - I build performant backend services with Nodejs, MongoDb, Postgre, MySQL, Redis etc
 - I build Serverless Applications with AWS services such Amplify, Appsync,GraphQl etc
 - I'm experienced AWS DevOps. I deploy and maintain large scale Applications with AWS services
-- I have experience building Distibuted Systems with Nodejs, Docker and Kubernetes.
+- I have experience building Distibuted Systems with Nodejs, gRPC,Docker and Kubernetes.
 - I'm a Psychology and Neuroscience Enthusiast
 - I treat people with empathy and respect
 - I work well in teams with great communication and follow-Up skills
