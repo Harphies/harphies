@@ -8,5 +8,4 @@
 - I'm experienced AWS DevOps. I deploy and maintain large scale Applications with AWS services
 - I'm experenced with Docker and Kubernetes to build reproducible and scalable applications
 - I'm a Psychology and Neuroscience Enthusiast
-- I'm an engineer and an Entreprenuer with the mission to make the world a better
 - I believe in empathy and treating people with respect.
