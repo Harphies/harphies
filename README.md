@@ -1,4 +1,4 @@
-### Top of the day to you, I'm Olalekan Taofeek, I'm here to make the world a better place
+### I'm here to make the world a better place
 
 - I focus on buiding biomedical startups (Diagnostic and Infusion Therapy software with AI-powered IoT devices)
 - I have experience leading diverse remote teams of over 20 developers across multiple projects
