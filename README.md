@@ -1,4 +1,4 @@
 ### About me
-Very nine and Infinitely Curious
+Very nice and Infinitely Curious
 
 
