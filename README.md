@@ -1,4 +1,4 @@
 ### About me
-Very nice and Infinitely Curious
+Nice and Infinitely Curious
 
 
